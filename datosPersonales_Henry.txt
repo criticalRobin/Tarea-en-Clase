@@ -1,0 +1,5 @@
+Nombres: Henry Steven
+Apellidos: Cortez Chaglla
+Fecha de Nacimiento: 03/06/2003
+Sexo: Masculino
+Estado Civil: soltero
